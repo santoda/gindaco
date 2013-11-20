@@ -1,0 +1,7 @@
+background-color="#FFF"
+font-color="#666666"
+font-size="12px"
+scrollamount="1"
+scrolldelay="40"
+width="450"
+height="115"

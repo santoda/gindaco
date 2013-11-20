@@ -1,0 +1,16 @@
+HTestimonial="We are a fishing boat customers and we feel that IPU Quality for fishing boat is excellent...
+
+HNamaTanggal="Fishing Boat, 23 November 2011
+
+
+HTestimonial="try to making a testimonial layer ...
+
+HNamaTanggal="Fishing Boat, 27 july 2014
+
+HTestimonial="We seeing in the future
+HNamaTanggal="Jakarta, 23 November 2013
+
+
+HTestimonial="glad to grouping with you
+
+HNamaTanggal="jakarta, 27 November 2013

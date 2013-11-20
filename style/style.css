@@ -1,0 +1,78 @@
+body{
+	margin:0 auto;
+	padding:0;
+	font-family:Arial;
+}
+.background{
+	background:url(../img/background.png) no-repeat;
+	width:960px;
+	height:700px;
+	margin:0 auto;
+	padding:0;
+}
+.clear{
+	clear:both;
+}
+.logo{
+	width:23%;
+	background:url(../img/logo.png) no-repeat;
+	height:170px;
+	float:left;
+}
+.menu{
+	width:77%;
+	float:left;
+}
+ul{
+	list-style:none;
+	padding-left:18px;
+	margin:0;
+}
+li{
+	float:left;
+	margin:10px 10px 0 0;
+}
+li a:hover{
+	opacity:0.7;
+}
+.content{
+	padding-top:352px;
+}
+.testimonial{
+	margin-left:15px;
+	background: #FFF;
+    width: 470px;
+	float:left;
+}
+.testimonial p{
+	padding:10px 0 0 10px;
+	margin-bottom:10px;
+	margin-top:0px;
+	color:#e40011;
+	font-weight:bold;
+	font-size:20px;
+}
+.write{
+	float:left;
+	padding-left:5px;
+}
+.content_left{
+	float:left;
+	width:60%;
+}
+.content_right{
+	float:left;
+	width:40%;
+}
+.content_right > img {
+    margin-right: 10px;
+}
+.footer{
+	padding-top:7px;
+	text-align:right;
+}
+.footer > p{
+	margin:0;
+	font-size:12px;
+	font-weight:bold;
+}
